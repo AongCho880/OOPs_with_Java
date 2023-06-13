@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author aongc
+ *
+ */
+module BasicJavaSyntax {
+}
